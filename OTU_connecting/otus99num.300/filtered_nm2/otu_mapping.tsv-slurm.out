@@ -1,0 +1,12 @@
+## ##
+## START JOB 5044350 - snakemake_OTU_connecting_generate_coverage_table
+## Mon Apr 13 16:33:18 CEST 2015
+## COMMAND: /gulo/proj_nobackup/b2010008/projects/OTU_mag_connection/.snakemake.tmp.HKSIXQ/snakejob.OTU_connecting_generate_coverage_table.445.sh
+## OMP_NUM_THREADS: 1
+## LOGFILE: /home/alneberg/jobs.log
+discarding /home/alneberg/miniconda/envs/snakemake/bin from PATH
+prepending /home/alneberg/miniconda/envs/basic_sandbox/bin to PATH
+## Mon Apr 13 16:33:40 CEST 2015
+## Elapsed time: 00-00:00:22
+## FINISHED JOB 5044350 - snakemake_OTU_connecting_generate_coverage_table
+## ##

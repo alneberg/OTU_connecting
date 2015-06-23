@@ -1,0 +1,5 @@
+blast_vs_mag/*
+map/*
+mapping/*
+.snakemake*
+reads/*
